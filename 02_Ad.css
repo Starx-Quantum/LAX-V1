@@ -5,7 +5,7 @@
   padding: 0;
 }
 html {
-  font-size: 16px;
+  font-size: 17px;
 }
 body {
   background-color: #fae5e5;
@@ -24,7 +24,7 @@ body {
 .heart-like-button {
   position: relative;
   width: 160px;
-  height: 130px;
+  height: 133px;
 }
 .heart-like-button:before {
   position: absolute;
@@ -38,7 +38,7 @@ body {
   background-color: #574136;
   content: "";
   cursor: pointer;
-  transition: background .4s;
+  transition: background .5s;
 }
 .heart-like-button:after {
   position: absolute;
